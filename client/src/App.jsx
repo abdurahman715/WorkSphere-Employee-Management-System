@@ -7,9 +7,9 @@ import Employees from "./pages/Employees";
 import Attendence from "./pages/Attendence";
 import Leave from "./pages/Leave";
 import Payslips from "./pages/Payslips";
-import { Settings } from "lucide-react";
 import PrintPaySlip from "./pages/PrintPaySlip";
 import LoginForm from "./components/LoginForm";
+import Settings from "./pages/Settings";
 const App = () => {
   return (
     <>
